@@ -7,4 +7,5 @@
 	<li>Media Query 和 RWD 控制</li>
 	<li>CSS Animation - CSS 動畫</li>
 	<li>CSS Variable - CSS 變數控制</li>
+	<li>HTML5 Storage</li>
 </ul>
