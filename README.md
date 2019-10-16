@@ -1,8 +1,8 @@
-# APP Programming and Design Case
-《APP 程式開發與設計》課程案例 by Seaniwei<br>
-<h2>Table of Contents 目錄</h2>
+# APP Programming and Design - Course Case
+《APP 程式開發與設計》課程案例<br>
+<h2>Table of Contents</h2>
 <h3>Case0: CSS Animation and Variable</h3>
-<h4>學習目標</h4>
+<h4>案例學習內容：</h4>
 <ul>
 	<li>Media Query 和 RWD 控制</li>
 	<li>CSS Animation - CSS 動畫</li>
